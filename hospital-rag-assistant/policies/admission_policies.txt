@@ -1,0 +1,21 @@
+Hospital Admission Policy
+
+All patients must provide a valid government-issued identification document during admission.
+
+Patients should submit accurate personal details including name, age, gender, address, and contact information.
+
+Emergency patients will be admitted immediately without prior payment. Required documentation can be completed after stabilization.
+
+Scheduled admissions should be completed at least one hour before the planned appointment.
+
+Patients are responsible for providing complete medical history, allergies, and current medications.
+
+Room allocation depends on availability and the selected admission category.
+
+Hospital staff reserve the right to verify patient identity before admission.
+
+Advance deposits may be required for planned procedures depending on the treatment category.
+
+Patients must sign the hospital consent form before treatment begins.
+
+Admission records are maintained securely according to hospital privacy regulations.

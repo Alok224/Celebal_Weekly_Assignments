@@ -1,0 +1,21 @@
+Hospital Billing Policy
+
+Billing charges include consultation fees, room charges, laboratory tests, medications, procedures, and other healthcare services.
+
+A detailed billing statement will be generated before discharge.
+
+Payments may be made through cash, debit card, credit card, UPI, or online banking.
+
+Insurance-covered patients must submit valid insurance documents during admission.
+
+Any charges not covered by insurance remain the responsibility of the patient.
+
+Refunds, if applicable, will be processed within seven business days after verification.
+
+Patients can request an itemized bill from the billing department.
+
+Outstanding balances must be cleared before final discharge unless approved by hospital administration.
+
+Billing disputes should be reported within thirty days of invoice generation.
+
+The hospital maintains complete financial records for audit and compliance purposes.

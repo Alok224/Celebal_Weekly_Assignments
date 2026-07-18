@@ -1,0 +1,21 @@
+Hospital Insurance Policy
+
+The hospital accepts insurance from approved insurance providers.
+
+Patients must present valid insurance identification and authorization documents during admission.
+
+Cashless treatment is available only for eligible insurance plans.
+
+Insurance approval depends on the provider's terms and policy coverage.
+
+Expenses not covered by insurance must be paid directly by the patient.
+
+Pre-authorization may be required for surgeries and specialized treatments.
+
+Insurance claims are processed after submission of all required documents.
+
+The hospital billing department assists patients with insurance-related documentation.
+
+Claim approval timelines are determined by the insurance provider.
+
+Patients should verify policy coverage before receiving elective treatment.
